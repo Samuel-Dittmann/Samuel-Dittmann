@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer | Love to with with Python, Azure Cloud and everything Microsoft
+Software Developer | Love to with with Python, Azure Cloud and everything Microsoft
 
 
 ## 🌐 Socials:
